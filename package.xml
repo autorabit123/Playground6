@@ -3,10 +3,12 @@
     <version>41.0</version>
     <types>
         <members>Test_Object__c.Test_Field__c</members>
+        <members>Test__c.Test_Object2__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Test_Object__c</members>
+        <members>Test__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -15,6 +17,7 @@
     </types>
     <types>
         <members>Test_Object__c-Test Object Layout</members>
+        <members>Test__c-Test_Object2 Layout</members>
         <name>Layout</name>
     </types>
     <types>
