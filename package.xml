@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>41.0</version>
+    <types>
+        <members>Child_DLPro__c.Parent_DLPro__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Child_DLPro__c</members>
+        <members>Parent_DLPro__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Parent_DLPro__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Child_DLPro__c-Child DLPro Layout</members>
+        <members>Parent_DLPro__c-Parent DLPro Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Parent_DLPro__c.All</members>
+        <name>ListView</name>
+    </types>
+</Package>
