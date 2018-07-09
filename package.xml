@@ -2,11 +2,13 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>41.0</version>
     <types>
+        <members>Saint_Gobain_Object__c.Saint_Gobain_Fld__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <members>Test__c.Test_Object2__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Saint_Gobain_Object__c</members>
         <members>Test_Object__c</members>
         <members>Test__c</members>
         <name>CustomObject</name>
@@ -16,6 +18,7 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>Saint_Gobain_Object__c-Saint Gobain Object Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>Test__c-Test_Object2 Layout</members>
         <name>Layout</name>
