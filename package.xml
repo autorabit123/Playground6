@@ -4,6 +4,7 @@
     <types>
         <members>Jul11_CObj__c.Jul11_Object__c</members>
         <members>Saint_Gobain_Object__c.Saint_Gobain_Fld__c</members>
+        <members>Sungage_CObject__c.Sungage_Object__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <members>Test__c.Test_Object2__c</members>
         <name>CustomField</name>
@@ -12,12 +13,15 @@
         <members>Jul11_CObj__c</members>
         <members>Jul11_Object__c</members>
         <members>Saint_Gobain_Object__c</members>
+        <members>Sungage_CObject__c</members>
+        <members>Sungage_Object__c</members>
         <members>Test_Object__c</members>
         <members>Test__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Jul11_Object__c</members>
+        <members>Sungage_Object__c</members>
         <members>Test_Object__c</members>
         <name>CustomTab</name>
     </types>
@@ -25,12 +29,15 @@
         <members>Jul11_CObj__c-Jul11 CObj Layout</members>
         <members>Jul11_Object__c-Jul11 Object Layout</members>
         <members>Saint_Gobain_Object__c-Saint Gobain Object Layout</members>
+        <members>Sungage_CObject__c-Sungage CObject Layout</members>
+        <members>Sungage_Object__c-Sungage Object Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>Test__c-Test_Object2 Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>Jul11_Object__c.All</members>
+        <members>Sungage_Object__c.All</members>
         <members>Test_Object__c.All</members>
         <name>ListView</name>
     </types>
