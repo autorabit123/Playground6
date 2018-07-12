@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>41.0</version>
     <types>
+        <members>IGM_C_Object__c.IGM_Obj__c</members>
         <members>Jul11_CObj__c.Jul11_Object__c</members>
         <members>Saint_Gobain_Object__c.Saint_Gobain_Fld__c</members>
         <members>Sungage_CObject__c.Sungage_Object__c</members>
@@ -10,6 +11,8 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>IGM_C_Object__c</members>
+        <members>IGM__c</members>
         <members>Jul11_CObj__c</members>
         <members>Jul11_Object__c</members>
         <members>Saint_Gobain_Object__c</members>
@@ -20,12 +23,15 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>IGM__c</members>
         <members>Jul11_Object__c</members>
         <members>Sungage_Object__c</members>
         <members>Test_Object__c</members>
         <name>CustomTab</name>
     </types>
     <types>
+        <members>IGM_C_Object__c-IGM C Object Layout</members>
+        <members>IGM__c-IGM Obj Layout</members>
         <members>Jul11_CObj__c-Jul11 CObj Layout</members>
         <members>Jul11_Object__c-Jul11 Object Layout</members>
         <members>Saint_Gobain_Object__c-Saint Gobain Object Layout</members>
@@ -36,6 +42,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>IGM__c.All</members>
         <members>Jul11_Object__c.All</members>
         <members>Sungage_Object__c.All</members>
         <members>Test_Object__c.All</members>
