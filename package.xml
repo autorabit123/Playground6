@@ -4,6 +4,7 @@
     <types>
         <members>IGM_C_Object__c.IGM_Obj__c</members>
         <members>Jul11_CObj__c.Jul11_Object__c</members>
+        <members>REI_CObj__c.REI_Obj__c</members>
         <members>Saint_Gobain_Object__c.Saint_Gobain_Fld__c</members>
         <members>Sungage_CObject__c.Sungage_Object__c</members>
         <members>Test_Object__c.Test_Field__c</members>
@@ -16,6 +17,8 @@
         <members>IGM__c</members>
         <members>Jul11_CObj__c</members>
         <members>Jul11_Object__c</members>
+        <members>REI_CObj__c</members>
+        <members>REI__c</members>
         <members>Saint_Gobain_Object__c</members>
         <members>Sungage_CObject__c</members>
         <members>Sungage_Object__c</members>
@@ -28,6 +31,7 @@
     <types>
         <members>IGM__c</members>
         <members>Jul11_Object__c</members>
+        <members>REI__c</members>
         <members>Sungage_Object__c</members>
         <members>Test_Object__c</members>
         <members>Windstream_Obj__c</members>
@@ -38,6 +42,8 @@
         <members>IGM__c-IGM Obj Layout</members>
         <members>Jul11_CObj__c-Jul11 CObj Layout</members>
         <members>Jul11_Object__c-Jul11 Object Layout</members>
+        <members>REI_CObj__c-REI CObj Layout</members>
+        <members>REI__c-REI Obj Layout</members>
         <members>Saint_Gobain_Object__c-Saint Gobain Object Layout</members>
         <members>Sungage_CObject__c-Sungage CObject Layout</members>
         <members>Sungage_Object__c-Sungage Object Layout</members>
@@ -50,6 +56,7 @@
     <types>
         <members>IGM__c.All</members>
         <members>Jul11_Object__c.All</members>
+        <members>REI__c.All</members>
         <members>Sungage_Object__c.All</members>
         <members>Test_Object__c.All</members>
         <members>Windstream_Obj__c.All</members>
