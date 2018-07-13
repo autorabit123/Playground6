@@ -8,6 +8,7 @@
         <members>Sungage_CObject__c.Sungage_Object__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <members>Test__c.Test_Object2__c</members>
+        <members>Windstream_C_Obj__c.Windstream_Obj__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -20,6 +21,8 @@
         <members>Sungage_Object__c</members>
         <members>Test_Object__c</members>
         <members>Test__c</members>
+        <members>Windstream_C_Obj__c</members>
+        <members>Windstream_Obj__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -27,6 +30,7 @@
         <members>Jul11_Object__c</members>
         <members>Sungage_Object__c</members>
         <members>Test_Object__c</members>
+        <members>Windstream_Obj__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -39,6 +43,8 @@
         <members>Sungage_Object__c-Sungage Object Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>Test__c-Test_Object2 Layout</members>
+        <members>Windstream_C_Obj__c-Windstream C Obj Layout</members>
+        <members>Windstream_Obj__c-Windstream Obj Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -46,6 +52,7 @@
         <members>Jul11_Object__c.All</members>
         <members>Sungage_Object__c.All</members>
         <members>Test_Object__c.All</members>
+        <members>Windstream_Obj__c.All</members>
         <name>ListView</name>
     </types>
 </Package>
