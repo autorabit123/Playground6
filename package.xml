@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>41.0</version>
     <types>
+        <members>Bradley_Child_Object__c.Bradley_Object__c</members>
         <members>IGM_C_Object__c.IGM_Obj__c</members>
         <members>Jul11_CObj__c.Jul11_Object__c</members>
         <members>REI_CObj__c.REI_Obj__c</members>
@@ -13,6 +14,8 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Bradley_Child_Object__c</members>
+        <members>Bradley_Object__c</members>
         <members>IGM_C_Object__c</members>
         <members>IGM__c</members>
         <members>Jul11_CObj__c</members>
@@ -29,6 +32,7 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Bradley_Object__c</members>
         <members>IGM__c</members>
         <members>Jul11_Object__c</members>
         <members>REI__c</members>
@@ -38,6 +42,8 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>Bradley_Child_Object__c-Bradley Child Object Layout</members>
+        <members>Bradley_Object__c-Bradley Object Layout</members>
         <members>IGM_C_Object__c-IGM C Object Layout</members>
         <members>IGM__c-IGM Obj Layout</members>
         <members>Jul11_CObj__c-Jul11 CObj Layout</members>
@@ -54,6 +60,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Bradley_Object__c.All</members>
         <members>IGM__c.All</members>
         <members>Jul11_Object__c.All</members>
         <members>REI__c.All</members>
