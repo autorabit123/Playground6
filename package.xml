@@ -5,6 +5,7 @@
         <members>Bradley_Child_Object__c.Bradley_Object__c</members>
         <members>IGM_C_Object__c.IGM_Obj__c</members>
         <members>Jul11_CObj__c.Jul11_Object__c</members>
+        <members>MK_Obj__c.MK_Fld__c</members>
         <members>Motiva_C_Obj__c.Motiva_Object__c</members>
         <members>Motiva_Object__c.Motiva_Field__c</members>
         <members>REI_CObj__c.REI_Obj__c</members>
@@ -25,6 +26,7 @@
         <members>IGM__c</members>
         <members>Jul11_CObj__c</members>
         <members>Jul11_Object__c</members>
+        <members>MK_Obj__c</members>
         <members>Motiva_C_Obj__c</members>
         <members>Motiva_Object__c</members>
         <members>REI_CObj__c</members>
@@ -45,6 +47,7 @@
         <members>Bradley_Object__c</members>
         <members>IGM__c</members>
         <members>Jul11_Object__c</members>
+        <members>MK_Obj__c</members>
         <members>Motiva_Object__c</members>
         <members>REI__c</members>
         <members>Sungage_Object__c</members>
@@ -62,6 +65,7 @@
         <members>IGM__c-IGM Obj Layout</members>
         <members>Jul11_CObj__c-Jul11 CObj Layout</members>
         <members>Jul11_Object__c-Jul11 Object Layout</members>
+        <members>MK_Obj__c-MK Obj Layout</members>
         <members>Motiva_C_Obj__c-Motiva C Obj Layout</members>
         <members>Motiva_Object__c-Motiva Object Layout</members>
         <members>REI_CObj__c-REI CObj Layout</members>
@@ -82,6 +86,7 @@
         <members>Bradley_Object__c.All</members>
         <members>IGM__c.All</members>
         <members>Jul11_Object__c.All</members>
+        <members>MK_Obj__c.All</members>
         <members>Motiva_Object__c.All</members>
         <members>REI__c.All</members>
         <members>Sungage_Object__c.All</members>
