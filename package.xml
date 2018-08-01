@@ -10,6 +10,7 @@
         <members>REI_CObj__c.REI_Obj__c</members>
         <members>Saint_Gobain_Object__c.Saint_Gobain_Fld__c</members>
         <members>Sungage_CObject__c.Sungage_Object__c</members>
+        <members>TBlue_Obj__c.TBlue_Fld__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <members>Test__c.Test_Object2__c</members>
         <members>Windstream_C_Obj__c.Windstream_Obj__c</members>
@@ -31,6 +32,7 @@
         <members>Saint_Gobain_Object__c</members>
         <members>Sungage_CObject__c</members>
         <members>Sungage_Object__c</members>
+        <members>TBlue_Obj__c</members>
         <members>Test_Object__c</members>
         <members>Test__c</members>
         <members>Windstream_C_Obj__c</members>
@@ -46,6 +48,7 @@
         <members>Motiva_Object__c</members>
         <members>REI__c</members>
         <members>Sungage_Object__c</members>
+        <members>TBlue_Obj__c</members>
         <members>Test_Object__c</members>
         <members>Windstream_Obj__c</members>
         <members>Windstream_P_Obj__c</members>
@@ -66,6 +69,7 @@
         <members>Saint_Gobain_Object__c-Saint Gobain Object Layout</members>
         <members>Sungage_CObject__c-Sungage CObject Layout</members>
         <members>Sungage_Object__c-Sungage Object Layout</members>
+        <members>TBlue_Obj__c-TBlue Obj Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>Test__c-Test_Object2 Layout</members>
         <members>Windstream_C_Obj__c-Windstream C Obj Layout</members>
@@ -81,6 +85,7 @@
         <members>Motiva_Object__c.All</members>
         <members>REI__c.All</members>
         <members>Sungage_Object__c.All</members>
+        <members>TBlue_Obj__c.All</members>
         <members>Test_Object__c.All</members>
         <members>Windstream_Obj__c.All</members>
         <members>Windstream_P_Obj__c.All</members>
