@@ -2,6 +2,13 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>41.0</version>
     <types>
+        <members>ATest</members>
+        <members>ATestcl</members>
+        <members>BotField</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AllC_Obj__c.All_Object__c</members>
         <members>August_2_Obj_Hughes__c.FldHughes__c</members>
         <members>Bradley_Child_Object__c.Bradley_Object__c</members>
         <members>IGM_C_Object__c.IGM_Obj__c</members>
@@ -20,6 +27,8 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>AllC_Obj__c</members>
+        <members>All_Object__c</members>
         <members>August_2_Obj_Hughes__c</members>
         <members>Bradley_Child_Object__c</members>
         <members>Bradley_Object__c</members>
@@ -46,6 +55,7 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>All_Object__c</members>
         <members>August_2_Obj_Hughes__c</members>
         <members>Bradley_Object__c</members>
         <members>IGM__c</members>
@@ -61,6 +71,8 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>AllC_Obj__c-AllC_Obj Layout</members>
+        <members>All_Object__c-All_Object Layout</members>
         <members>August_2_Obj_Hughes__c-August 2 Obj Hughes Layout</members>
         <members>Bradley_Child_Object__c-Bradley Child Object Layout</members>
         <members>Bradley_Object__c-Bradley Object Layout</members>
@@ -87,6 +99,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>All_Object__c.All</members>
         <members>August_2_Obj_Hughes__c.All</members>
         <members>Bradley_Object__c.All</members>
         <members>IGM__c.All</members>
